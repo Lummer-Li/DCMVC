@@ -2,7 +2,7 @@
 This repo contains the demo code and data of our paper DCMVC: Dual Contrastive Multi-view Clustering.
 Please contact us if you require other datasets.
 > URL: [DCMVC: Dual Contrastive Multi-view Clustering](xx.com)
-<img src="https://github.com/Lummer-Li/DCMVC/edit/main/DCMVC.png">
+<img src="https://github.com/Lummer-Li/DCMVC/blob/main/DCMVC.png">
 
 ## Requirements
 ```
