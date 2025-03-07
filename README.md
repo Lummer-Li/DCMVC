@@ -6,7 +6,7 @@ Please contact us if you require other datasets.
 
 ## Requirements
 ```python
-pytorch >= 2.0.1
+torch >= 2.0.1
 numpy >= 1.24.4
 scikit-learn >= 1.3.0
 ```
