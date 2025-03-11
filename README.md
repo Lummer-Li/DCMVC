@@ -2,7 +2,7 @@
 This repo contains the demo code and data of our paper DCMVC: Dual Contrastive Multi-view Clustering (Neurocomputing).
 
 Please contact us (pengyuanli@bjtu.edu.cn) if you require other datasets.
-> URL: [DCMVC: Dual Contrastive Multi-view Clustering](xx.com)
+> URL: [DCMVC: Dual Contrastive Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S0925231225005612)
 <img src="https://github.com/Lummer-Li/DCMVC/blob/main/DCMVC.png">
 
 ## Requirements
