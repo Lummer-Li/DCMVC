@@ -18,6 +18,7 @@ Please consider citing if our work is beneficial for your research.
 @article{LI2025129889,
   title = {DCMVC: Dual contrastive multi-view clustering},
   journal = {Neurocomputing},
+  volume = {635},
   pages = {129889},
   year = {2025},
   issn = {0925-2312},
