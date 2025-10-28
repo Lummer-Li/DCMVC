@@ -42,7 +42,6 @@
 ## Datasets📚
 To comprehensively evaluate the performance of the proposed DCMVC method, we conducted experiments using nine publicly available multi-view datasets, as shown below. 
 
-
 | Dataset      | Samples  | Views  | View Dimensions         | Clusters  |
 |--------------|----------|--------|-------------------------|-----------|
 | MSRC_v1      | 210      | 6      | 1302/48/512/100/256/210 | 7         |
@@ -64,9 +63,8 @@ To comprehensively evaluate the performance of the proposed DCMVC method, we con
 <div>
     <img src="https://github.com/Lummer-Li/DCMVC/blob/main/assets/tab1.png" width="80%" height="96%">
 </div>
-
-<br> </br>
-
+<!-- <br> </br> -->
+s
 **Table 2. Ablation study on MSRC_v1, UCI-Digit, and NoisyMNIST, respectively.**
 <div>
     <img src="https://github.com/Lummer-Li/DCMVC/blob/main/assets/tab2.png" width="30%" height="96%">
