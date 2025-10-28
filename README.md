@@ -64,7 +64,7 @@ To comprehensively evaluate the performance of the proposed DCMVC method, we con
     <img src="https://github.com/Lummer-Li/DCMVC/blob/main/assets/tab1.png" width="80%" height="96%">
 </div>
 <!-- <br> </br> -->
-s
+
 **Table 2. Ablation study on MSRC_v1, UCI-Digit, and NoisyMNIST, respectively.**
 <div>
     <img src="https://github.com/Lummer-Li/DCMVC/blob/main/assets/tab2.png" width="30%" height="96%">
